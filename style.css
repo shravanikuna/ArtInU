@@ -293,6 +293,7 @@ a:hover #line1{
     transform: rotate3d(-1, 2, 0, 20deg);
   }
 .arrow {
+    cursor: pointer;
     position: relative;
     overflow: hidden;
     height: 10vmax;
@@ -481,6 +482,7 @@ overflow: hidden;
   height: 80%;
 }
 .elem .button{
+  cursor: pointer;
   position: absolute;
 width: 40%;
 top: 85%;
