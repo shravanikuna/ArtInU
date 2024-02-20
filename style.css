@@ -335,7 +335,6 @@ box-shadow: 0px 10px 20px 0px #898888;
 .elems{
   width: 88vw;
   display: flex;
-  padding
   justify-content: space-around;
   height: fit-content;
   flex-wrap: wrap;
