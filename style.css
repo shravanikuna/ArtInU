@@ -218,8 +218,8 @@ a:hover #line1{
   }
   #about-us-in p {
     margin-top: 10px;
-    font-size: 1.5vmax;
-    line-height: 26px;
+    font-size: 1.6vmax;
+    line-height: 28px;
     opacity: 0;
   }
   #cards-container {
@@ -271,7 +271,7 @@ a:hover #line1{
   }
   .pg2{
     padding: 6vw;
-    height: 220vh;
+    height: 235vh;
   }
   .pg2 p{
     color: #292929;
@@ -342,9 +342,10 @@ box-shadow: 0px 10px 20px 0px #898888;
 .elem{
   border-radius: 2px;
   width: 35vw;
-  height: 60vh;
+  height: 62vh;
   display: flex;
   flex-direction: column;
+  border-radius: 3px;
   background-color: #b3abab27;
   position: relative;
   background-image: url(https://images.unsplash.com/photo-1612831660846-778e3a5548bd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1964&q=80);
@@ -373,7 +374,7 @@ overflow: hidden;
 }
 .elem .button{
   background-color: #c1a483;
-  width: 45%;
+  width: 42%;
   margin-left: 25%;
   height: 4vw;
   border-radius: 5px;
